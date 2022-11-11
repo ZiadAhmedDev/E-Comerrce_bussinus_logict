@@ -1,4 +1,4 @@
-# ecomerrce_bussinus_logict
+# E-Comerrce_bussinus_logict
 
 the Project is Simple-E-Commerce that have a simple logic:
 
