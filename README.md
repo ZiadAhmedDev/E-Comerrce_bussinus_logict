@@ -2,9 +2,9 @@
 
 the Project is Simple-E-Commerce that have a simple logic:
 
-1- the add Products in the cart
+1- Adding Products in the cart
 
-2-calculate the total
+2-Calculate the total
 
 3-View the cart
 
